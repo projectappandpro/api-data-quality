@@ -1,2 +1,1 @@
-#### jenkins-deploy-webapp-lab by.bamossza
-# api-data-quality
+#### api-data-quality by nattawuth.c
